@@ -32,3 +32,7 @@
    font-size: 10px;
    font-weight: 400;
 }
+.link{
+    text-decoration: none;
+    color: black;
+}
